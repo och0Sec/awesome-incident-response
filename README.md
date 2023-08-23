@@ -284,6 +284,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Virustotal](https://www.virustotal.com) - Free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (Cuckoo, Procmon, more to come).
 * [Yomi](https://yomi.yoroi.company) - Free MultiSandbox managed and hosted by Yoroi.
+* [PANDA re](https://panda.re/) - PANDA is an open-source Platform for Architecture-Neutral Dynamic Analysis. Developed by MIT.
 
 ### Scanner Tools
 
